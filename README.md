@@ -25,7 +25,7 @@ The rings are connected by a 12:1 gear ration and are driven by a stepper motor,
 ### Parts
 - Super glue (good to have on hand, as 3d-printed parts don't always fit as intended)
 - 4 M3-.50 x 16 screws
-- 4 M3-.50 x 6 screws
+- 4 M3-.50 x 6 screws (optional)
 - ~ 60g PLA filament
 - [Waveshare 2in LCD display (ST7789VW)](https://www.amazon.com/dp/B082GFTZQD?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
 - [5V stepper motor + driver (ULN2003)](https://www.amazon.com/dp/B0BG4ZCFLQ?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1)
@@ -40,7 +40,7 @@ The rings are connected by a 12:1 gear ration and are driven by a stepper motor,
 
 ![Step 1](https://github.com/boouung/Radial-Clock/blob/main/images/Step1.PNG)
 
-2. Mount frame/rear assembly. Mount motor and driver board along with their corresponding wires as shown.
+2. Mount frame/rear assembly. Mount motor and driver board along with their corresponding wires as shown. Mount the Pi by screwing the the M3 -16 screws directly into the plastic.
 
 ![Step 2](https://github.com/boouung/Radial-Clock/blob/main/images/Step2.PNG)
 
@@ -51,7 +51,7 @@ The rings are connected by a 12:1 gear ration and are driven by a stepper motor,
 
 4. Cover/speaker mount assembly. 
 	*The mounts are for bare speaker drivers 30 mm in diameter. I never got around to installing mine. 
-	**The cover is designed to be either glued or screwed into places using M3 screws. Make sure the screen is attached to the inside of the cover before mounting.
+	**The cover is designed to be either glued or screwed into places using M3 - 6 screws. Make sure the screen is attached to the inside of the cover before mounting.
 
 ![Step 4](https://github.com/boouung/Radial-Clock/blob/main/images/Step4.PNG)
 
